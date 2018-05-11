@@ -1,0 +1,9 @@
+.chatbox{
+    height: 500px;
+    border: 1px solid black;
+    overflow: scroll;
+}
+
+body{
+    background-color: blue;
+}
